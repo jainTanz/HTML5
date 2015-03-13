@@ -2,7 +2,7 @@
   font-family: "Georgia";
   margin: 0;
   padding: 0px;
-  font-size: 16px;
+  font-size: 14px;
 }
 .container {
   border: 1px solid white;
@@ -40,7 +40,7 @@
 .labels {
   color: #606060;
   font-weight: bold;
-  padding-bottom: 20px;
+  padding-bottom: 35px;
   padding-right: 10px;
   vertical-align: top;
 }
